@@ -1,0 +1,28 @@
+HOW TO USE: brain-help
+=======================
+
+PURPOSE
+  Display the complete Second Brain cheat sheet directly in chat with all
+  available slash commands, arguments, flags, and usage examples.
+
+CAPABILITIES
+  - Instant in-chat reference guide
+  - Covers all read and write commands
+  - Shows volatility flags, tags, and formatting rules
+
+USE CASES
+  - Quick syntax reminder when you can't recall a flag or parameter
+  - Verifying which command to use for a specific task
+
+IDEAS
+  - Type `/brain-help` whenever you are unsure of the command names or parameters
+
+PROMPTS YOU CAN PASTE
+  /brain-help
+
+EXAMPLE FLOW
+  You: /brain-help
+  Agent: [Outputs complete command table and examples in chat]
+
+DEFAULT GOALS IF YOU DON'T NAME ONE
+  1. Print full Second Brain slash command cheat sheet table and examples in chat
